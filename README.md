@@ -1,13 +1,11 @@
 # Shivansh Bansal
 
-Brief one-liner about yourself.
+Studying CS + Computational Biology @ UCLA · Building at the intersection of AI/ML, biology, and hardware
 
 ---
 
-- 2nd place @ Regeneron ISEF — computational biology & bioinformatics
-- Co-founder of Evidence OS — AI evidence management for fabless semiconductor companies
-- Built Snoopy, an AI phone agent for small businesses
+Currently exploring: AI agents · computational biology · machine learning · hardware
 
 ---
 
-yourwebsite.com · LinkedIn · your@email.com
+[LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/shivansh~bansal/)) · shivanshb@ucla.edu
