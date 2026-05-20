@@ -1,16 +1,13 @@
-## Hi there 👋
+# Shivansh Bansal
 
-<!--
-**shivanshb828/shivanshb828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Brief one-liner about yourself.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 2nd place @ Regeneron ISEF — computational biology & bioinformatics
+- Co-founder of Evidence OS — AI evidence management for fabless semiconductor companies
+- Built Snoopy, an AI phone agent for small businesses
+
+---
+
+yourwebsite.com · LinkedIn · your@email.com
