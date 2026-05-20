@@ -8,4 +8,4 @@ Currently exploring: AI agents · computational biology · machine learning · h
 
 ---
 
-[LinkedIn]([(https://www.linkedin.com/in/shivansh~bansal]) · shivanshb@ucla.edu
+[LinkedIn](https://www.linkedin.com/in/shivansh~bansal) · shivanshb@ucla.edu
