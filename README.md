@@ -4,7 +4,7 @@ Studying CS + Computational Biology @ UCLA · Building at the intersection of AI
 
 ---
 
-Currently exploring: AI agents · computational biology · machine learning · hardware
+Currently exploring: Applied AI · AI agents · computational biology · machine learning · hardware design
 
 ---
 
