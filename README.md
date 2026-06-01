@@ -8,4 +8,4 @@ Currently exploring: Applied AI · AI agents · computational biology · machine
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/shivansh~bansal) · shivanshb@ucla.edu
+[LinkedIn](https://www.linkedin.com/in/shivansh~bansal) · shivanshb@ucla.edu · shivanshbansal.com
