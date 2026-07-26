@@ -1,6 +1,6 @@
 # Shivansh Bansal
 
-Studying CS + Computational Biology @ UCLA · Building at the intersection of AI/ML, biology, and hardware
+Studying CS + Computational Biology @ UCLA · Building at the intersection of Applied AI, Machine Learning, and Biology
 
 ---
 
