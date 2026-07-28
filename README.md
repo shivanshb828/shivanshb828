@@ -1,6 +1,6 @@
 # Shivansh Bansal
 
-Studying CS + Computational Biology @ UCLA · Building at the intersection of Applied AI, Machine Learning, and Biology
+Building at the intersection of Applied AI, Machine Learning, and Biology
 
 ---
 
@@ -8,4 +8,4 @@ Currently exploring: Applied AI · AI agents · computational biology · machine
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/shivansh~bansal) · shivanshb@ucla.edu · [shivanshbansal.com](https://www.shivanshbansal.com/)
+[LinkedIn](https://www.linkedin.com/in/shivansh~bansal) · [shivanshbansal.com](https://www.shivanshbansal.com/)
